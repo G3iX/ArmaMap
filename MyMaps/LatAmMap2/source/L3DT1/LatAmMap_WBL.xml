@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<varlist name="WaterBodyList">
+	<WaterBody>
+		<int name="WaterID">1</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">0</int>
+		<int name="yCoord">0</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">2</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">886</int>
+		<int name="yCoord">0</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">3</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">1351</int>
+		<int name="yCoord">0</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">4</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">1523</int>
+		<int name="yCoord">0</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">5</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">1628</int>
+		<int name="yCoord">0</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">6</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">1937</int>
+		<int name="yCoord">0</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">7</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">1080</int>
+		<int name="yCoord">35</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">8</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">2044</int>
+		<int name="yCoord">96</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">9</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">1771</int>
+		<int name="yCoord">147</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">10</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">823</int>
+		<int name="yCoord">169</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">11</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">618</int>
+		<int name="yCoord">192</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">12</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">480</int>
+		<int name="yCoord">203</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">13</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">950</int>
+		<int name="yCoord">212</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">14</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">535</int>
+		<int name="yCoord">292</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">15</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">945</int>
+		<int name="yCoord">524</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">16</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">1704</int>
+		<int name="yCoord">537</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">17</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">1521</int>
+		<int name="yCoord">635</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">18</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">1629</int>
+		<int name="yCoord">710</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">19</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">1578</int>
+		<int name="yCoord">734</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">20</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">1821</int>
+		<int name="yCoord">768</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">21</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">2</int>
+		<int name="yCoord">890</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">22</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">632</int>
+		<int name="yCoord">939</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">23</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">1176</int>
+		<int name="yCoord">994</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">24</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">1991</int>
+		<int name="yCoord">1317</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">25</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">213</int>
+		<int name="yCoord">1545</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">26</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">322</int>
+		<int name="yCoord">1562</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">27</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">605</int>
+		<int name="yCoord">1603</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">28</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">1910</int>
+		<int name="yCoord">1612</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">29</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">237</int>
+		<int name="yCoord">1632</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">30</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">365</int>
+		<int name="yCoord">1684</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">31</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">1035</int>
+		<int name="yCoord">1784</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">32</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">39</int>
+		<int name="yCoord">1852</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">33</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">349</int>
+		<int name="yCoord">1868</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">34</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">952</int>
+		<int name="yCoord">1878</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">35</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">1799</int>
+		<int name="yCoord">1889</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">36</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">2037</int>
+		<int name="yCoord">1893</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">37</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">1653</int>
+		<int name="yCoord">1933</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">38</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">1646</int>
+		<int name="yCoord">1972</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">39</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">1727</int>
+		<int name="yCoord">1973</int>
+	</WaterBody>
+	<WaterBody>
+		<int name="WaterID">40</int>
+		<int name="Type">10</int>
+		<float name="WaterLevel">0.000000</float>
+		<int64 name="nPixels">0</int64>
+		<int name="xCoord">619</int>
+		<int name="yCoord">2021</int>
+	</WaterBody>
+</varlist>

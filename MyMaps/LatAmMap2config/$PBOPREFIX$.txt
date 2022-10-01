@@ -1,0 +1,3 @@
+prefix = MyMaps\LatAmMap2config
+author = GTH
+version = 0.1

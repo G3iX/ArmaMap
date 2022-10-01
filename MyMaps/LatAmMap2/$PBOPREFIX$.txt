@@ -1,0 +1,4 @@
+prefix = MyMaps\LatAmMap2
+author = GTH
+version = 0.1
+cfgworlds=MyMaps\LatAmMap2config
